@@ -24,5 +24,8 @@ Para rodar o servidor de desenvolvimento e acessar o projeto localmente:
 
 1. Navegue até o diretório raiz e xecute o comando:
  ```
+   
+    npm install -g @angular/cli
+
     ng serve
 
