@@ -1,4 +1,5 @@
 # 🍔 Projeto Front-end - Burguer Mania
+![image](https://github.com/user-attachments/assets/38782fcb-8680-47a4-a91b-be7be9bd913e)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Angular](https://img.shields.io/badge/Angular-17.3.11-red?logo=angular)](https://angular.io/)
